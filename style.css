@@ -1,0 +1,97 @@
+.lien {
+    background-color: green;
+
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.image {
+    width: 200px;
+}
+
+.tableau {
+    background-color: gray;
+
+}
+
+td {
+    background-color: rgb(255, 255, 255);
+}
+
+.envoyer {
+    background-color: green;
+}
+
+header {
+    background-color: rgb(153, 18, 40);
+    padding: 30px;
+    text-align: center;
+}
+
+header button {
+    background-color: rgb(160, 60, 77);
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    border-color: white;
+    font-size: 20px;
+    font-family: cursive;
+    margin-right: 20px;
+    font-family: "brioso-pro", serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.deuxiemepartie {
+    text-align: center;
+    font-family: "brioso-pro", serif;
+    font-size: 30px;
+    font-weight: 700;
+    font-style: italic;
+    color: white;
+    background-image: url(fraisier.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.troisiemepartie {
+    text-align: center;
+    font-family: "brioso-pro", serif;
+    font-size: 30px;
+    font-weight: 700;
+    font-style: italic;
+    color: white;
+    background-color: rgb(153, 18, 40);
+    margin: 20px;
+    border-radius: 10px;
+
+}
+
+.troisiemepartie p {
+    font-family: "brioso-pro-caption", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+}
+
+.contain {
+    display: flex;
+    justify-content: space-around;
+
+
+}
+
+.contain p {
+    background-color: rgb(90, 30, 30);
+    padding: 30px;
+    border-radius: 20px;
+}
+
+
+.taille{
+display: flex;
+justify-content: space-between;
+}

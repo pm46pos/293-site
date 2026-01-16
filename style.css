@@ -91,7 +91,14 @@ header button {
 }
 
 
-.taille{
-display: flex;
-justify-content: space-between;
+.flex-container {
+    display: flex;
+    flex-direction: row-reverse;
+    background-image: url(5623_FRAISES_GARIGUETTE_V2.webp);
+    background
+    
+}
+
+.flex-item {
+    
 }
